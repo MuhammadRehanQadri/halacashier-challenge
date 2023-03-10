@@ -12,7 +12,11 @@ Install with npm
   npm install
   
 ```
-    
+
+## Update env
+
+Clone `.env-example` to `.env` and add your keys in it
+ 
 
 ## Run
 
@@ -22,4 +26,4 @@ Run the project
   npm start
   
 ```
-    
+
